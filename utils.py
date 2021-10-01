@@ -1,6 +1,6 @@
 
 def call_if_value_is_callable(a_dict: dict) -> None:
-    """Call the dict values if is callable
+    """Call values from a dictionary if they are callable
 
     :param a_dict: a dict
     """
